@@ -1,9 +1,6 @@
 package com.ra.busBooking.DTO;
 
-/**
- * @author Ramanpreet
- *
- */
+
 public class BookingsDTO {
 
 	private int id;
