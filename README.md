@@ -1,2 +1,2 @@
-# BusReservationSystemPart6
+# BusReservationSystem
  Feedback and Delete Bus Record functionality imaplemented
